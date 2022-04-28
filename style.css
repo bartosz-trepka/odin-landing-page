@@ -9,3 +9,10 @@
 body {
     font-family: Roboto, sans-serif;
 }
+
+.container,
+.header-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
