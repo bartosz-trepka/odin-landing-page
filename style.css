@@ -8,6 +8,8 @@
 
 body {
     font-family: Roboto, sans-serif;
+    width: 1440px;
+    height: 1912px;
 }
 
 .container,
@@ -15,4 +17,24 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.header {
+    background-color: #1F2937;
+}
+
+/* .information {
+
+} */
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.call-to-action {
+    background-color: #3882F6;
+}
+
+.footer {
+    background-color: #1F2937;
 }
