@@ -77,6 +77,34 @@ body {
     height: 498px;
 }
 
+.info-main {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+    text-align: center;
+    padding: 48px 0px;
+}
+
+.information .container {
+    justify-content: center;
+    gap: 50px;
+}
+
+.info {
+    max-width: 167px;
+}
+
+.info-image {
+    border-radius: 20px;
+}
+
+.info-secondary {
+    text-align: center;
+    font-size: 18px;
+    color: #1f2937cb;
+    padding-top: 4px;
+}
+
 .quote {
     background-color: #E5E7EB;
     height: 429px;
