@@ -73,18 +73,21 @@ body {
     padding-top: 4px;
 }
 
-/* .information {
-
-} */
+.information {
+    height: 498px;
+}
 
 .quote {
     background-color: #E5E7EB;
+    height: 429px;
 }
 
 .call-to-action {
     background-color: #3882F6;
+    height: 350px;
 }
 
 .footer {
     background-color: #1F2937;
+    height: 100px;
 }
