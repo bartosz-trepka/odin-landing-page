@@ -2,8 +2,8 @@
 
 * {
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
 }
 
 body {
@@ -21,6 +21,56 @@ body {
 
 .header {
     background-color: #1F2937;
+    padding: 18px 208px 0px;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.header-links {
+    list-style-type: none;
+}
+
+.header-links a {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+    margin-left: 25px;
+}
+
+.hero {
+    padding: 116px 0px;
+    height: 489px;
+}
+
+.hero-main {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.hero-secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero-button {
+    background-color: #3882F6;
+    font-size: 17.5px;
+    font-weight: 900;
+    color: #E5E7EB;
+    padding: 8px 34px;
+    border-radius: 8px;
+    border: none;
+    margin-top: 13px;
+}
+
+.hero-image {
+    margin-left: 40px;
+    padding-top: 4px;
 }
 
 /* .information {
